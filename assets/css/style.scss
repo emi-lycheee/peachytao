@@ -4,8 +4,8 @@
 @import "{{ site.theme }}";
 
 body {
- background: #FFE3F2;
- background-color:#FFE3F2;
+ background: #FFE3F2 !important;
+ background-color:#FFE3F2 !important;
 }
 
 h1, h2, h3 {
