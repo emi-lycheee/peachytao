@@ -2,16 +2,14 @@
 layout: default
 ---
 
-## Our collection
+## Our collections: ˗ˏˋ ♡ ˎˊ˗
 
-Genshin Collection
+Genshin Collection ₊˚⊹♡
 
-Honkai Collection
+Honkai Collection ✧˖°.࣪ ִֶָ☾.
 
-Sakura Collection
+Sakura Collection ⋆˚✿˖°
 
-Hydrangea Collection
-
-Miscellaneous Collection
+Hydrangea Collection ⟡⋆ꕤ⊹₊
 
 [back](./)
