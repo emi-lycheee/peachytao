@@ -8,7 +8,9 @@ Hi! We are **peachytao**, ₍ꕤᐢ..ᐢ₎ a small business owned by two colleg
   ∘₊✧──────✧₊∘
 </div>
 
-![PinkAsymEarrings](https://github.com/emi-lycheee/peachytao/blob/main/assets/images/pink%20asym%20earrings.jpg?raw=true)
+<div style="text-align: center;">
+  <img src="https://github.com/emi-lycheee/peachytao/blob/main/assets/images/pink%20asym%20earrings.jpg?raw=true" alt="PinkAsymEarrings" width="300" />
+</div>
 
 <div style="text-align: center;">
   ∘₊✧──────✧₊∘
@@ -20,12 +22,18 @@ Whether you're looking for cute earrings for everyday wear or a fancy necklace f
 
 [Our collections](./collection.html)
 
+<div style="text-align: center;">
+  ∘₊✧──────✧₊∘
+</div>
 
 ## Our socials:
 [Instagram: @peachyy.tao](https://www.instagram.com/peachyy.tao/?igsh=MTFjbzdoNXc0bXlyag%3D%3D)
 
 For custom designs, please reach out to us on Instagram with your request! :) We respond back within 1-3 business days.
 
+<div style="text-align: center;">
+  ∘₊✧──────✧₊∘
+</div>
 
 ---
 
