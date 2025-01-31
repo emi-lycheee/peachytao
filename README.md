@@ -1,5 +1,5 @@
 <header>
-# peachytao website
+Peachytao Website
 
 _Browse through our entire collection of jewelry!_
 
