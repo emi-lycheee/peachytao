@@ -12,8 +12,9 @@ We also sell online and do customs! Send us a DM on Instagram for placing orders
 
 
 ### Links
+Instagram: https://www.instagram.com/peachyy.tao/?igsh=MTFjbzdoNXc0bXlyag%3D%3D
 
-
+----
 <footer>
 
 Made with GitHub pages :)
