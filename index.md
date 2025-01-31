@@ -8,7 +8,7 @@ Hi! We are **peachytao**, a small business owned by two college students and we 
 
 ## Shop our collections to match with the spring blossoms~
 
-[Link to our collections](./our-collections.html)
+[Link to our collections](./collection.html)
 
 ## Our socials:
 [Instagram: @peachyy.tao](https://www.instagram.com/peachyy.tao/?igsh=MTFjbzdoNXc0bXlyag%3D%3D)
