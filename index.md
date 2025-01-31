@@ -29,6 +29,7 @@ Whether you're looking for cute earrings for everyday wear or a fancy necklace f
 ## Our socials
 
 Follow us on Instagram for the latest updates and new design releases:
+
 [Instagram: @peachyy.tao](https://www.instagram.com/peachyy.tao/?igsh=MTFjbzdoNXc0bXlyag%3D%3D)
 
 For custom designs, please reach out to us on Instagram with your request! :) We respond back within 1-3 business days and are happy to discuss any specifications or adjustments needed.
