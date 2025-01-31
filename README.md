@@ -1,7 +1,8 @@
 <header>
-Peachytao Website
 
-_Browse through our entire collection of jewelry!_
+# Peachytao
+
+_For Genshin and Honkai themed jewerly and ethereal aesthetics!_
 
 </header>
 
