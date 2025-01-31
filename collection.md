@@ -4,7 +4,9 @@ layout: default
 
 ## Our collections: ˗ˏˋ ♡ ˎˊ˗
 
-Sakura Collection ⋆˚✿˖°
+<div style=text-align: center;">
+  Sakura Collection ⋆˚✿˖°
+</div>
 
 <div style="text-align: center;">
   ∘₊✧──────✧₊∘
@@ -18,7 +20,9 @@ Sakura Collection ⋆˚✿˖°
   ∘₊✧──────✧₊∘
 </div>
 
-Hydrangea Collection ⟡⋆ꕤ⊹₊
+<div style=text-align: center;">
+  Hydrangea Collection ⟡⋆ꕤ⊹₊
+</div>
 
 <div style="text-align: center;">
   ∘₊✧──────✧₊∘
@@ -32,7 +36,9 @@ Hydrangea Collection ⟡⋆ꕤ⊹₊
   ∘₊✧──────✧₊∘
 </div>
 
-Genshin Collection ₊˚⊹♡
+<div style="text-align: center;">
+  Genshin Collection ₊˚⊹♡
+</div>
 
 <div style="text-align: center;">
   ∘₊✧──────✧₊∘
@@ -54,7 +60,9 @@ Genshin Collection ₊˚⊹♡
   ∘₊✧──────✧₊∘
 </div>
 
-Honkai Collection ✧˖°.࣪ ִֶָ☾.
+<div style="text-align: center;">
+  Honkai Collection ✧˖°.࣪ ִֶָ☾.
+</div>
 
 <div style="text-align: center;">
   ∘₊✧──────✧₊∘
