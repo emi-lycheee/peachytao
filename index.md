@@ -23,7 +23,7 @@ Whether you're looking for cute earrings for everyday wear or a fancy necklace f
 [Our collections](./collection.html)
 
 <div style="text-align: center;">
-  ∘₊✧──────────────────────────────✧₊∘
+  ∘₊✧────────────✧₊∘
 </div>
 
 ## Our socials:
@@ -32,7 +32,7 @@ Whether you're looking for cute earrings for everyday wear or a fancy necklace f
 For custom designs, please reach out to us on Instagram with your request! :) We respond back within 1-3 business days.
 
 <div style="text-align: center;">
-  ∘₊✧──────────────────────────────✧₊∘
+  ∘₊✧────────────✧₊∘
 </div>
 
 ---
