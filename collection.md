@@ -4,7 +4,7 @@ layout: default
 
 ## Our collections: ˗ˏˋ ♡ ˎˊ˗
 
-<div style=text-align: center;">
+<div style="text-align: center;">
   Sakura Collection ⋆˚✿˖°
 </div>
 
@@ -20,7 +20,7 @@ layout: default
   ∘₊✧──────✧₊∘
 </div>
 
-<div style=text-align: center;">
+<div style="text-align: center;">
   Hydrangea Collection ⟡⋆ꕤ⊹₊
 </div>
 
