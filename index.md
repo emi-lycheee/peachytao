@@ -4,7 +4,15 @@ layout: default
 
 Hi! We are **peachytao**, ₍ꕤᐢ..ᐢ₎ a small business owned by two college students and we make handmade resin jewelry inspired by nature and popular games such as Genshin Impact and Honkai: Star Rail! ⋅˚₊‧ ୨୧ ‧₊˚ ⋅
 
+<div style="text-align: center;">
+  ∘₊✧──────✧₊∘
+</div>
+
 ![PinkAsymEarrings](https://github.com/emi-lycheee/peachytao/blob/main/assets/images/pink%20asym%20earrings.jpg?raw=true)
+
+<div style="text-align: center;">
+  ∘₊✧──────✧₊∘
+</div>
 
 ## Shop our collections to match with the spring blossoms~ ❀。• *₊°。
 
