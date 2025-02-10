@@ -23,7 +23,7 @@ Whether you're looking for cute earrings for everyday wear or a fancy necklace f
 [Our collections](./collection.html)
 
 <div style="text-align: center;">
-  <img src="https://github.com/emi-lycheee/peachytao/blob/main/assets/images/spring%20banner.png?raw=true" width="500" />
+  <img src="https://github.com/emi-lycheee/peachytao/blob/main/assets/images/spring%20banner.png?raw=true" width="600" />
 </div>
 
 <div style="text-align: center;">
@@ -37,7 +37,7 @@ Follow us on Instagram for the latest updates and new design releases:
 [Instagram: @peachyy.tao](https://www.instagram.com/peachyy.tao/?igsh=MTFjbzdoNXc0bXlyag%3D%3D)
 
 <div style="text-align: center;">
-  <img src="https://github.com/emi-lycheee/peachytao/blob/main/assets/images/insta.png?raw=true" width="300" />
+  <img src="https://github.com/emi-lycheee/peachytao/blob/main/assets/images/insta.png?raw=true" width="500" />
 </div>
 
 For custom designs, please reach out to us on Instagram with your request! :) We respond back within 1-3 business days and are happy to discuss any specifications or adjustments needed.
