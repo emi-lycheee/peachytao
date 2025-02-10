@@ -61,7 +61,7 @@ We currently only offer shipping in the U.S., but hope to expand in the future!
   ∘₊✧────────────✧₊∘
 </div>
 
-## Learn how to keep your jewelry in good condition through our jewerlry care page!
+## Learn how to keep your jewelry in good condition through our jewelry care page!
 
 [insert link for jewelry care here]
 
