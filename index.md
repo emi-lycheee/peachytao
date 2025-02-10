@@ -41,9 +41,14 @@ Follow us on Instagram for the latest updates and new design releases:
 </div>
 
 Or contact us by email:
-[@peachyeonn@gmail.com](mailto:@peachyeonn@gmail.com)
 
-For custom designs, please reach out to us on Instagram with your request! :) We respond back within 1-3 business days and are happy to discuss any specifications or adjustments needed.
+[peachyeonn@gmail.com](mailto:@peachyeonn@gmail.com)
+
+<div style="text-align: center;">
+  <img src="https://github.com/emi-lycheee/peachytao/blob/main/assets/images/peachyeonn%20email.png?raw=true" width="500" />
+</div>
+
+For custom designs, please reach out to us on Instagram or email with your request! :) We respond back within 1-3 business days and are happy to discuss any specifications or adjustments needed.
 
 <div style="text-align: center;">
   ∘₊✧────────────✧₊∘
@@ -59,6 +64,10 @@ We currently only offer shipping in the U.S., but hope to expand in the future!
 ## Learn how to keep your jewelry in good condition through our jewerlry care page!
 
 [insert link for jewelry care here]
+
+<div style="text-align: center;">
+  <img src="https://github.com/emi-lycheee/peachytao/blob/main/assets/images/before%20and%20after.png?raw=true" width="500" />
+</div>
 
 <div style="text-align: center;">
   ∘₊✧────────────✧₊∘
