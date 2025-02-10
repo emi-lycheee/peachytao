@@ -45,7 +45,7 @@ Or contact us by email:
 [peachyeonn@gmail.com](mailto:@peachyeonn@gmail.com)
 
 <div style="text-align: center;">
-  <img src="https://github.com/emi-lycheee/peachytao/blob/main/assets/images/peachyeonn%20email.png?raw=true" width="500" />
+  <img src="https://github.com/emi-lycheee/peachytao/blob/main/assets/images/peachyeonn%20email.png?raw=true" width="300" />
 </div>
 
 For custom designs, please reach out to us on Instagram or email with your request! :) We respond back within 1-3 business days and are happy to discuss any specifications or adjustments needed.
@@ -66,7 +66,7 @@ We currently only offer shipping in the U.S., but hope to expand in the future!
 [insert link for jewelry care here]
 
 <div style="text-align: center;">
-  <img src="https://github.com/emi-lycheee/peachytao/blob/main/assets/images/necklace.png?raw=true" width="500" />
+  <img src="https://github.com/emi-lycheee/peachytao/blob/main/assets/images/necklace.png?raw=true" width="300" />
 </div>
 
 <div style="text-align: center;">
