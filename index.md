@@ -66,7 +66,7 @@ We currently only offer shipping in the U.S., but hope to expand in the future!
 [insert link for jewelry care here]
 
 <div style="text-align: center;">
-  <img src="https://github.com/emi-lycheee/peachytao/blob/main/assets/images/before%20and%20after.png?raw=true" width="500" />
+  <img src="https://github.com/emi-lycheee/peachytao/blob/main/assets/images/necklace.png?raw=true" width="500" />
 </div>
 
 <div style="text-align: center;">
