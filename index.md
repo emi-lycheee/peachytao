@@ -23,6 +23,10 @@ Whether you're looking for cute earrings for everyday wear or a fancy necklace f
 [Our collections](./collection.html)
 
 <div style="text-align: center;">
+  <img src="https://github.com/emi-lycheee/peachytao/blob/main/assets/images/spring%20banner.png?raw=true" width="300" />
+</div>
+
+<div style="text-align: center;">
   ∘₊✧────────────✧₊∘
 </div>
 
