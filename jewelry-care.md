@@ -11,7 +11,7 @@ layout: default
 </div>
 
 <div style="text-align: center;">
-  <img src="https://github.com/emi-lycheee/peachytao/blob/main/assets/images/jewelry%20care%20page.png?raw=true" alt="PinkAsymEarrings" width="300" />
+  <img src="https://github.com/emi-lycheee/peachytao/blob/main/assets/images/jewelry%20care%20page.png?raw=true" alt="PinkAsymEarrings" width="500" />
 </div>
 
 <div style="text-align: center;">
