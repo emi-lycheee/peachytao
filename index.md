@@ -63,6 +63,8 @@ We currently only offer shipping in the U.S., but hope to expand in the future!
 
 ## Learn how to keep your jewelry in good condition through our jewelry care page!
 
+Our jewelry is stainless steel and is tarnish-resistant, meaning tarnish will be minimal. However, if your jewelry looks duller, refer to our jewelry care page to restore it to its original appearance.
+
 [Jewelry care](./jewelry-care.html)
 
 <div style="text-align: center;">
