@@ -63,7 +63,7 @@ We currently only offer shipping in the U.S., but hope to expand in the future!
 
 ## Learn how to keep your jewelry in good condition through our jewelry care page!
 
-[insert link for jewelry care here]
+[Jewelry care](./jewelry-care.html)
 
 <div style="text-align: center;">
   <img src="https://github.com/emi-lycheee/peachytao/blob/main/assets/images/necklace.png?raw=true" width="300" />
