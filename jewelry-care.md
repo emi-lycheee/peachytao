@@ -2,9 +2,9 @@
 layout: default
 ---
 
-## Jewelry Care ˗ˏˋ ♡ ˎˊ˗
+# Jewelry Care ˗ˏˋ ♡ ˎˊ˗
 
-# How do I maintain my jewelry's appearance? ⋆˚✿˖°
+## How do I maintain my jewelry's appearance? ⋆˚✿˖°
 
 <div style="text-align: center;">
   ∘₊✧──────✧₊∘
@@ -18,7 +18,7 @@ layout: default
   ∘₊✧──────✧₊∘
 </div>
 
-# Tarnishing
+## Tarnishing
 
 While our earrings are tarnish-resistant, there may be times where you find your earrings look duller than before.
 If this is the case, follow these steps to bring your jewelry back to it's original appearance!
@@ -33,7 +33,7 @@ If this is the case, follow these steps to bring your jewelry back to it's origi
   ∘₊✧──────✧₊∘
 </div>
 
-# Before and After (Windex)
+## Before and After (Windex)
 
 <div style="text-align: center;">
   <img src="https://github.com/emi-lycheee/peachytao/blob/main/assets/images/before%20and%20after.png?raw=true" alt="PinkAsymEarrings" width="300" />
