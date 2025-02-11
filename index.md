@@ -79,4 +79,6 @@ Our jewelry is stainless steel and is tarnish-resistant, meaning tarnish will be
 
 ### For more questions, visit our FAQ!
 
-[insert link here]
+The most common question answers our on our FAQ however feel free to reach out if your specific question isn't addressed there!
+
+[FAQ](./FAQ.html)
